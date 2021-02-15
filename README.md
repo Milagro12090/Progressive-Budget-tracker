@@ -28,4 +28,4 @@ if you would like to reach out feel free to contact me through the email on my g
 
 # Link to deployed Heroku App
 
-[Click Here]() to access deployed heroku app.
+[Click Here](https://progressive-budget-track.herokuapp.com/) to access deployed heroku app.
